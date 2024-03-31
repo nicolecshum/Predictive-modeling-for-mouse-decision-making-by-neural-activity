@@ -10,4 +10,5 @@ using models based on average neuron spikes per session-specific brain area, tra
 hypotheses are made on the most important factors on the predictive performance of the model, providing insights for future 
 studies or analysis.
 
-This report was made with R markdown. The data is contained in the sessions folder (training data) and test folder (test data).
+This report was made with R markdown. The data is contained in the sessions folder (training data) and test folder (test data). For the 
+full project report, see sta141aproj.pdf.
